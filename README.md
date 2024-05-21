@@ -24,8 +24,7 @@ The User Verification Service is a Spring Boot application designed to manage an
     git clone `https://github.com/jaikhandelwal053/User-Verification-Service`
     cd user-verification-service
 
-### Configure the database:
-Update the application.properties file with your MySQL database details.
+### Configure the database (application.properties):
     spring.datasource.url=jdbc:mysql://localhost:3306/your_database_name
     spring.datasource.username=your_username
     spring.datasource.password=your_password
